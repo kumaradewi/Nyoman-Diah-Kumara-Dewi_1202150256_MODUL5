@@ -7,10 +7,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.ArrayList;
 
-/**
- * Created by RZKLMSYH on 3/24/2018.
- */
-
 public class Database extends SQLiteOpenHelper {
     //deklarasi variable yang akan digunakan
     Context cntx;

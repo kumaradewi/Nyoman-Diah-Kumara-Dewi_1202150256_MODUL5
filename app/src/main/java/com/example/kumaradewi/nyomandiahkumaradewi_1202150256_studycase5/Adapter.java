@@ -14,9 +14,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by RZKLMSYH on 3/24/2018.
- */
 
 public class Adapter extends RecyclerView.Adapter<Adapter.holder> {
     //deklarasi variable yang akan digunakan
